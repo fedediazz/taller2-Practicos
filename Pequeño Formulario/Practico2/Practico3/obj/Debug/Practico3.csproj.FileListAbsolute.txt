@@ -1,0 +1,20 @@
+C:\Users\Federico\source\repos\Pract3\Practico3\bin\Debug\Practico3.exe.config
+C:\Users\Federico\source\repos\Pract3\Practico3\bin\Debug\Practico3.exe
+C:\Users\Federico\source\repos\Pract3\Practico3\bin\Debug\Practico3.pdb
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.csproj.AssemblyReference.cache
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.Form1.resources
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.Properties.Resources.resources
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.csproj.GenerateResource.cache
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.csproj.CoreCompileInputs.cache
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.exe
+C:\Users\Federico\source\repos\Pract3\Practico3\obj\Debug\Practico3.pdb
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\bin\Debug\Practico3.exe.config
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\bin\Debug\Practico3.exe
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\bin\Debug\Practico3.pdb
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.csproj.AssemblyReference.cache
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.Form1.resources
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.Properties.Resources.resources
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.csproj.GenerateResource.cache
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.csproj.CoreCompileInputs.cache
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.exe
+C:\Users\Federico\Desktop\UNNE\3° ANO\Taller ll\repos\Pequeño Formulario\Practico2\Practico3\obj\Debug\Practico3.pdb
